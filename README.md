@@ -1,16 +1,32 @@
-# React + Vite
+# 🎲 RollGuess – Prediction Dice Roller Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Live Demo: https://rollguess.netlify.app/
 
-Currently, two official plugins are available:
+## 📌 About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**RollGuess** is a fun and interactive prediction-based dice rolling game built using React.  
+The user predicts a number before rolling the dice, and the game checks whether the prediction matches the result.
 
-## React Compiler
+This project combines **luck, prediction, and randomness** into a simple UI experience.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🎮 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎲 Real-time dice rolling animation
+- 🔮 Prediction system before roll
+- ⚡ Instant result checking (Win/Loss)
+- 🎨 Clean and responsive UI
+- 🧠 Simple game logic with React state management
+- 📱 Mobile-friendly design
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js ⚛️
+- JavaScript (ES6)
+- CSS3
+- Vite (for fast development)
+
+---
